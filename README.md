@@ -1,0 +1,1 @@
+# terraform-provider-docdb-brightdg-releases
